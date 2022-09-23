@@ -1,0 +1,271 @@
+1. Very accurate 
+- Perfect 
+- Exact 
+- Flawless
+- Precise
+2. Very aggressive
+- Forceful 
+- Overconfident 
+3. Very amazed 
+- Astounded 
+- Flabbergasted
+- Astonished 
+- Shocked 
+4. Very angry
+- Furious 
+- Fuming
+- Livid 
+- Enraged
+5. Very aware
+- Conscious 
+- Mindful
+6. Very bad
+- Awful
+- Deplorable
+- Miserable 
+- Rotten
+7. Very basic 
+- Simple 
+- Primary
+- Rudimentary
+- Fundamental
+8. Very beautiful
+- Gorgeous 
+- Stunning 
+- Exquisite 
+- Magnificent 
+9. Very boring 
+- Tedious
+- Mind-numbing
+- Dreary
+- Uninteresting
+10. Very bright
+- Blinding 
+- Dazzling
+- Radiant
+11. Very capable 
+- Efficient
+- Skillful 
+- Proficient 
+12. Very careful 
+- Scrupulous 
+- Meticulous 
+- Fastidious 
+13. Very caring 
+- Compassionate 
+- Kind
+- Attentive
+14. Very clean 
+- Spotless 
+- Immaculate 
+- Hygienic
+15. Very clever
+- Intelligent 
+- Sharp  
+- Astute 
+- Ingenious 
+16. Very cold 
+- Bitter 
+- Icy
+- Freezing 
+17. Very colourful 
+- Vibrant 
+- Vivid 
+18. Very competitive 
+- Ambitious 
+- Cut-throat 
+- Driven 
+19. Very concerned 
+- Troubled 
+- Upset 
+- Worried 
+- Agitated 
+20. Very confident 
+- Poised 
+- Self-assured
+- Secure 
+21. Very confused 
+- Baffled 
+- Mystified 
+- Dazed 
+22. Very corrupt
+- Unethical 
+- Fraudulent 
+- Dishonest 
+23. Very creepy 
+- Skin-crawling 
+- Weird 
+- Unnerving 
+24. Very critical
+- Essential 
+- Crucial 
+- Vital 
+25. Very cute
+- Endearing 
+- Adorable 
+- Charming 
+26. Very dangerous 
+- Perilous 
+- Treacherous
+- Precarious
+27. Very delicate 
+- Fragile 
+- Frail 
+- Flimsy 
+28. Very different 
+- Unusual 
+- Distinctive 
+- Unique 
+29. Very difficult 
+- Complex 
+- Demanding 
+- Arduous  
+30. Very dirty 
+- Filthy 
+- Grimy 
+- Dilapidated 
+- Squalid 
+31. Very dismal 
+- Miserable 
+- Morbid 
+- Depressing 
+32. Very dry
+- Parched 
+- Dehydrated 
+- Arid 
+33. Very easy 
+- Effortless 
+- Unchallenging 
+- Simple 
+34. Very educational 
+- Informative 
+- Enlightening 
+35. Very embarrassed
+- Mortified 
+- Humiliated 
+- Ashamed 
+36. Very enthusiastic 
+- Eager 
+- Keen 
+- Zealous
+37. Very exciting 
+- Electrifying 
+- Exhilarating 
+- Breathtaking 
+38. Very expensive 
+- Overpriced 
+- Costly 
+- Exorbitant
+39. Very fair 
+- Impartial 
+- Neutral 
+- Just
+40. Very faithful 
+- Loyal 
+- Devoted 
+41. Very famous 
+- Renowned
+- Legendary
+42. Very far 
+- Distant 
+- Remote 
+43. Very fast 
+- Rapid 
+- Swift 
+44. Very fierce 
+- Vicious 
+- Ferocious 
+- Feral 
+45. Very frustrating 
+- Exasperating 
+- Vexing 
+- Infuriating 
+46. Very full
+- Overflowing 
+- Crammed 
+- Packed 
+47. Very funny
+- Hysterical 
+- Hilarious 
+- Sidesplitting
+48. Very good 
+- Superb
+- Excellent 
+- Outstanding 
+49. Very happy 
+- Ecstatic 
+- Overjoyed 
+- Elated 
+50. Very heavy 
+- Weighty
+- Dense 
+- Hefty
+51. Very honest 
+- Candid 
+- Sincere 
+- Frank  
+52. Very hot 
+- Burning 
+- Scalding 
+- Blistering 
+- Scorching 
+53. Very hungry
+- Ravenous 
+- Famished 
+- Starving 
+54. Very impressive 
+- Remarkable 
+- Extraodinary 
+55. Very informal
+- Casual 
+- Easygoing 
+56. Very intense
+- Severe 
+- Overpowering 
+- Extreme 
+57. Very interesting 
+- Fascinating 
+- Compelling 
+- Riveting
+58. Very likely
+- Expected
+- Unavoidable 
+- Probable 
+59. Very lively 
+- Exuberant 
+- Energetic 
+- Vivacious 
+60. Very loud 
+- Deafening 
+- Booming 
+- Thunderous 
+- Blaring 
+61. Very lucky 
+- Fortunate
+- Blessed 
+- Charmed 
+62. Very negative 
+- Pessimistic 
+- Defeatist 
+- Cynical 
+63. Very new 
+- Cutting edge 
+- Novel 
+- Innovative 
+64. Very nice 
+- Enjoyable 
+- Pleasant
+- Agreeable 
+65. Very obvious 
+- Apparant 
+- Clear 
+- Visible 
+- Evident 
+66. Very old 
+- Decrepit 
+- Ancient 
+- Grizzled 
+67. Very painful 
+- Excruciating 
+- Agonizing 
+- Unbearable 
