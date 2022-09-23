@@ -1,0 +1,28 @@
+💥 MILLION:
+🌶 Khi đi với một con số cụ thể, không thêm S cuối các từ như: hundred, thousand, million,…
+Correct: 90 million people
+Incorrect: 90 millionS people
+
+🌶 Thường được viết trong Ielts Writing Task 1:
+The year 2004 also saw dramatically increases in the money spent on Fairtrade 
+bananas in the UK and Switzerland, with revenues rising by $32 million and $4.5 million 
+respectively. (Ielts Simon)
+
+
+💥 MillionS
+🌶 Thêm S sau hundred, thousand, million,… khi miêu tả một con số ước chừng.
+hundredS, thousandS, millionS,… thường được theo sau bởi OF + DANH TỪ ĐẾM ĐƯỢC
+
+
+👀 So sánh 2 câu sau:
+There were a million people in the stadium.
+= There were exactly 1,000,000 people.
+
+There were millionS of people in the stadium.
+= There were an unspecified amount but it was in the millionS. 
+(không có con số cụ thể nhưng đơn vị của nó phải là triệu)
+
+🌶 hundredS, thousandS, millionS,… thường được dùng để nhấn mạnh, gây ấn tượng, hoặc phóng đại
+
+When I stayed in your hometown, I had hundredS of mosquito bites.
+hundredS là con số phóng đại nhằm gây ấn tượng là bị rất rất nhiều…

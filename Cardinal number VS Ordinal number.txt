@@ -1,0 +1,31 @@
+First: 1st 
+Second: 2nd 
+Third: 3rd 
+Fourth: 4th 
+Fifth: 5th 
+Sixth: 6th 
+Seventh: 7th 
+Eighth: 8th 
+Ninth: 9th 
+Tenth: 10th 
+Eleventh: 11th 
+Twelfth: 12th 
+Thirteenth: 13th 
+Fourteenth: 14th 
+Fifteenth: 15th 
+Sixteenth: 16th 
+Seventeenth: 17th 
+Eighteenth: 18th 
+Nineteenth: 19th 
+Twentieth: 20th 
+Twenty-second: 22nd
+Twenty-fifth: 25th
+Thirtieth: 30th
+Fortieth: 40th
+Fiftieth: 50th 
+Sistieth: 60th 
+Seventieth: 70th 
+Eightieth: 80th
+Ninetieth: 90th
+One hundredth: 100th 
+One hundred twenty-fifth: 125th
